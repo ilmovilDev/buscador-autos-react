@@ -1,0 +1,20 @@
+*{
+    transition: all ease 0.5s;
+}
+.first-containt{
+    background-color: #0a48b9;
+    background-image: linear-gradient(160deg, #0a48b9 10%, #6ce2dd 90%);
+    min-height: 100vh;
+}
+.titulo-tabela{
+    background-color: #0a48b9;
+    color: #f1faee;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.titulo-tabela th{
+    color: #f1faee;
+}
+img{
+    width: 40px;
+    height: 40px;
+}
